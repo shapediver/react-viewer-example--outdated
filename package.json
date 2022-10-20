@@ -9,10 +9,10 @@
   ],
   "main": "src/index.tsx",
   "dependencies": {
-    "@shapediver/viewer": "1.14.16",
+    "@shapediver/viewer": "^2.3.5",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "4.0.3"
   },
   "devDependencies": {
     "@types/react": "^18.0.9",
@@ -30,5 +30,11 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "eslintConfig": {
+      "extends": [
+        "react-app",
+        "react-app/jest"
+      ]
+  }
 }
