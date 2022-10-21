@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# ShapeDiver Viewer Example with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project uses the `@shapediver/viewer` which is the api of the [ShapeDiver](shapediver.com) Viewer. If you have questions, please consult our [help desk](https://help.shapediver.com/doc/viewer) or ask a question in the [forum](forum.shapediver.com).
+
+Important Note: Due to an error, please only use `react-scripts` version `4.0.3`. The issue has been reported and we are waiting for a fix.
 
 ## Available Scripts
 
