@@ -1,3 +1,5 @@
+:warning: This project is outdated, consider using https://github.com/shapediver/ShapeDiverReactExample instead.
+
 # ShapeDiver Viewer Example with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
